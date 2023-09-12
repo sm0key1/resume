@@ -1,0 +1,42 @@
+main{ 
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: grey;
+}
+#Experiences{
+    color:black;
+}
+ #Job-1{
+   background-color:beige;
+   width: 450px;
+   height: 100px;
+ }
+
+ #Job-2{
+    background-color:beige;
+    width: 450px;
+    height: 100px;
+  }
+  #Skill{
+    background-color:beige;
+   width: 450px;
+   height: 100px;
+  }
+  nav{ 
+    background-color: aqua;
+   width: 160px;
+  }
+  #intro{
+    color: aqua;
+  }
+  #Menu{
+    color: white;
+  }
+#Education{
+    color: white;
+}
+#Experience{ 
+    color: white;
+}
+#skills{
+    color: white;
+}
